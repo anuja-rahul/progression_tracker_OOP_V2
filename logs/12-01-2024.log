@@ -1,0 +1,70 @@
+2024-01-12 22:12:33,146: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:12:33,148: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:12:33,149: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:12:33,149: HandleLogger - INFO - [test_user] existing user found.
+2024-01-12 22:12:33,149: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-12 22:12:56,647: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:12:56,648: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-12 22:12:56,651: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:12:56,651: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:12:56,651: HandleLogger - INFO - [test_user] existing user found.
+2024-01-12 22:12:56,651: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-12 22:12:56,658: HandleLogger - INFO - Progression stats updated.
+2024-01-12 22:13:17,676: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:13:17,677: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:13:17,678: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:13:17,678: HandleLogger - INFO - [test_user] existing user found.
+2024-01-12 22:13:17,678: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-12 22:13:17,678: HandleLogger - INFO - progress data string generated from database.
+2024-01-12 22:13:17,679: HandleLogger - INFO - Key requested to dump data.
+2024-01-12 22:13:17,680: CryptoHandleLogger(ENC) - INFO - Key generated
+2024-01-12 22:13:17,681: CryptoHandleLogger(ENC) - INFO - Data bin created.
+2024-01-12 22:13:17,681: HandleLogger - INFO - [test_user] - Data bin encrypted.
+2024-01-12 22:13:17,682: HandleLogger - INFO - Key requested to load data.
+2024-01-12 22:13:17,683: CryptoHandleLogger(DEC) - INFO - Key generated
+2024-01-12 22:13:17,684: CryptoHandleLogger(DEC) - INFO - Data retrieved from bin.
+2024-01-12 22:13:17,684: HandleLogger - INFO - [test_user] - Data bin decrypted.
+2024-01-12 22:15:22,502: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:15:22,503: ValidationLogger - INFO - [tester_01] - Marks validated.
+2024-01-12 22:15:22,504: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:15:22,504: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:15:22,505: CryptoHandleLogger - INFO - salt bin created.
+2024-01-12 22:15:22,505: HandleLogger - INFO - [tester_01] - cryptodata assigned.
+2024-01-12 22:15:22,511: HandleLogger - INFO - [tester_01] existing user found.
+2024-01-12 22:15:22,511: HandleLogger - INFO - User [tester_01] authentication successful.
+2024-01-12 22:15:22,517: HandleLogger - INFO - Progression stats updated.
+2024-01-12 22:15:36,505: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:15:36,506: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:15:36,506: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:15:36,506: HandleLogger - INFO - [tester_01] existing user found.
+2024-01-12 22:15:36,507: HandleLogger - WARNING - User [tester_01] authentication unsuccessful.
+2024-01-12 22:15:42,929: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:15:42,930: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:15:42,931: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:15:42,931: HandleLogger - INFO - [tester_01] existing user found.
+2024-01-12 22:15:42,931: HandleLogger - INFO - User [tester_01] authentication successful.
+2024-01-12 22:15:42,931: HandleLogger - INFO - progress data string generated from database.
+2024-01-12 22:15:42,932: HandleLogger - INFO - Key requested to dump data.
+2024-01-12 22:15:42,934: CryptoHandleLogger(ENC) - INFO - Key generated
+2024-01-12 22:15:42,934: CryptoHandleLogger(ENC) - INFO - Data bin created.
+2024-01-12 22:15:42,935: HandleLogger - INFO - [tester_01] - Data bin encrypted.
+2024-01-12 22:15:42,935: HandleLogger - INFO - Key requested to load data.
+2024-01-12 22:15:42,936: CryptoHandleLogger(DEC) - INFO - Key generated
+2024-01-12 22:15:42,937: CryptoHandleLogger(DEC) - INFO - Data retrieved from bin.
+2024-01-12 22:15:42,937: HandleLogger - INFO - [tester_01] - Data bin decrypted.
+2024-01-12 22:15:48,501: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-12 22:15:48,502: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-12 22:15:48,502: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-12 22:15:48,503: CryptoHandleLogger - INFO - salt bin created.
+2024-01-12 22:15:48,503: HandleLogger - INFO - [\afe] - cryptodata assigned.
+2024-01-12 22:15:48,508: HandleLogger - INFO - [\afe] existing user found.
+2024-01-12 22:15:48,509: HandleLogger - INFO - User [\afe] authentication successful.
+2024-01-12 22:15:48,509: HandleLogger - INFO - progress data string generated from database.
+2024-01-12 22:15:48,510: HandleLogger - INFO - Key requested to dump data.
+2024-01-12 22:15:48,511: CryptoHandleLogger(ENC) - INFO - Key generated
+2024-01-12 22:15:48,512: CryptoHandleLogger(ENC) - INFO - Data bin created.
+2024-01-12 22:15:48,512: HandleLogger - INFO - [\afe] - Data bin encrypted.
+2024-01-12 22:15:48,513: HandleLogger - INFO - Key requested to load data.
+2024-01-12 22:15:48,514: CryptoHandleLogger(DEC) - INFO - Key generated
+2024-01-12 22:15:48,514: CryptoHandleLogger(DEC) - INFO - Data retrieved from bin.
+2024-01-12 22:15:48,514: HandleLogger - INFO - [\afe] - Data bin decrypted.
