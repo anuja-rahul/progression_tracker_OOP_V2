@@ -1,0 +1,111 @@
+2024-01-07 19:43:30,793: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 19:43:30,799: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 19:49:02,009: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 19:49:02,011: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 19:50:43,311: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 19:50:43,313: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 19:53:20,504: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 19:53:20,507: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 19:53:33,088: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 19:53:33,093: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:33:29,604: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:33:29,607: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:33:57,467: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:33:57,469: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:34:35,245: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:34:35,247: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:34:35,254: MainLogger - CRITICAL - [Errno 2] No such file or directory: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/08df548c-252a-4fdb-a114-c2168029871e.bin'
+2024-01-07 20:35:41,971: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:35:41,974: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:35:41,976: MainLogger - CRITICAL - [Errno 2] No such file or directory: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_db/08df548c-252a-4fdb-a114-c2168029871e.bin'
+2024-01-07 20:36:15,134: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:36:15,137: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:38:47,719: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:38:47,721: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:57:56,265: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:57:56,268: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 20:59:16,736: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 20:59:16,739: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:00:26,301: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:00:26,303: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:00:53,534: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:00:53,536: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:02:29,850: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:02:29,853: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:03:12,220: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:03:12,222: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:03:40,939: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:03:40,941: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:03:56,757: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:03:56,760: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:04:11,285: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:04:11,287: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:05:19,698: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:05:19,700: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:05:37,148: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:05:37,150: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:05:58,555: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:05:58,558: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:06:17,105: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:06:17,108: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:07:19,988: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:07:19,991: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:07:38,455: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-07 21:07:38,457: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:08:05,187: HandleLogger - INFO - [Kamal, 120, 0, 0] ---> Validated.
+2024-01-07 21:08:05,191: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-07 21:08:31,006: HandleLogger - INFO - [Kesh, 100, 20, 0] ---> Validated.
+2024-01-07 21:08:31,010: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:08:45,580: HandleLogger - INFO - [Kesh, 0, 120, 0] ---> Validated.
+2024-01-07 21:08:45,582: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:08:55,794: HandleLogger - INFO - [Kesh, 0, 0, 120] ---> Validated.
+2024-01-07 21:08:55,796: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:09:03,402: HandleLogger - INFO - [Kesh, 0, 80, 40] ---> Validated.
+2024-01-07 21:09:03,405: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:09:11,931: HandleLogger - INFO - [Kesh, 0, 80, 40] ---> Validated.
+2024-01-07 21:15:05,920: HandleLogger - INFO - [Kesh, 0, 80, 40] ---> Validated.
+2024-01-07 21:15:05,922: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:15:55,522: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:15:55,523: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:15:55,523: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:30,910: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:30,910: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:30,910: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:30,912: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:18:42,921: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:42,921: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:42,921: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:18:42,923: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:19:23,701: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:19:23,701: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:19:23,701: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:19:23,704: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:24:01,623: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:01,623: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:01,623: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:01,625: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:24:24,586: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:24,586: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:24,586: HandleLogger - ERROR - (None) should be an integer.
+2024-01-07 21:24:24,589: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:28:15,687: DataLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:29:43,998: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:29:57,513: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:32:56,874: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:33:09,654: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:35:28,219: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:36:39,798: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:39:27,984: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:41:43,458: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:44:13,107: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:45:26,731: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:46:19,157: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:46:36,165: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:53:10,059: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-07 21:53:21,590: HandleLogger - WARNING - User [Kesh] authentication unsuccessful.
+2024-01-07 21:53:33,585: HandleLogger - INFO - User [Kesh] authentication successful.
+2024-01-07 21:56:34,061: HandleLogger - INFO - User [Amara] authentication successful.
+2024-01-07 21:56:50,976: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-07 21:57:29,295: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-07 21:58:55,494: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-07 21:59:05,155: HandleLogger - INFO - User [Senith] authentication successful.

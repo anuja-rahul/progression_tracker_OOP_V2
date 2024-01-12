@@ -1,0 +1,177 @@
+2024-01-10 19:45:31,252: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 19:45:31,264: ValidationLogger - INFO - [Anuhas, 120, 0, 0] ---> Marks validated.
+2024-01-10 19:45:31,264: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]  created.
+2024-01-10 19:45:31,265: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:45:31,265: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:45:31,266: CryptoHandleLogger - INFO - salt bin created.
+2024-01-10 19:45:31,266: HandleLogger - INFO - [Anuhas] - cryptodata assigned.
+2024-01-10 19:45:31,273: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 19:45:31,280: HandleLogger - INFO - Progression stats updated.
+2024-01-10 19:46:37,559: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 19:46:37,561: ValidationLogger - INFO - [Anuhas, 0, 80, 40] ---> Marks validated.
+2024-01-10 19:46:37,562: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]  created.
+2024-01-10 19:46:37,562: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:46:37,562: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:46:37,563: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 19:46:37,572: HandleLogger - INFO - Progression stats updated.
+2024-01-10 19:48:23,860: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 19:48:23,861: ValidationLogger - INFO - [Anuhas, 0, 80, 40] ---> Marks validated.
+2024-01-10 19:48:23,861: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]  created.
+2024-01-10 19:48:23,861: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:48:23,862: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 19:48:23,869: HandleLogger - INFO - Progression stats updated.
+2024-01-10 19:49:22,898: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 19:49:22,900: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 19:49:22,901: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]  created.
+2024-01-10 19:49:22,901: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]  created.
+2024-01-10 19:49:22,901: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 19:49:22,910: HandleLogger - INFO - Progression stats updated.
+2024-01-10 19:50:51,309: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 19:50:51,311: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 19:50:51,314: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 19:50:51,315: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 19:50:51,315: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 19:50:51,322: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:02:40,577: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:02:40,579: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:02:40,579: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:02:40,579: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:02:40,580: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:02:40,587: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:03:13,049: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:03:13,051: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:03:13,051: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:03:13,051: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:03:13,052: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:03:13,059: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:03:32,413: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:03:32,414: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:03:32,415: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:03:32,415: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:03:32,416: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:03:32,423: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:06:05,345: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:06:05,346: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:06:05,347: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:06:05,347: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:06:05,347: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:06:05,355: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:12:41,500: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:12:41,502: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:12:41,503: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:12:41,503: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:12:41,503: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:12:41,513: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:17:22,627: QueryLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:17:22,627: MainLogger - CRITICAL - 'QueryData' object has no attribute 'connect'
+2024-01-10 20:20:37,861: QueryLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:20:37,863: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:20:37,863: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:20:37,863: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:20:37,864: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:20:37,872: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:21:14,762: QueryLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:21:14,764: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:21:14,765: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:21:14,765: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:21:14,765: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:21:14,775: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:21:37,436: QueryLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:21:37,438: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:21:37,439: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:21:37,439: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:21:37,439: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:21:37,448: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:21:52,711: QueryLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:21:52,711: MainLogger - CRITICAL - 'QueryData' object has no attribute 'connect'
+2024-01-10 20:24:18,051: QueryLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:24:18,051: QueryLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:24:18,053: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:24:18,053: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:24:18,053: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:24:18,054: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:24:18,061: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:26:38,131: QueryLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:26:38,131: InitQueryLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:26:38,133: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:26:38,133: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:26:38,134: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:26:38,134: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:26:38,142: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:28:31,984: QueryInfoLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:28:31,985: QueryInfoLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-10 20:28:31,987: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:28:31,987: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:28:31,987: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:28:31,988: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:28:31,998: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:30:19,640: QueryInfoLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 20:30:19,641: QueryInfoLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 20:30:19,642: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:30:19,643: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:30:19,643: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:30:19,643: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:30:19,652: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:30:38,988: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 20:30:38,989: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:30:38,991: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:30:38,991: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:30:38,991: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:30:38,999: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:31:02,092: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 20:31:02,093: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:31:02,094: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:31:02,094: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:31:02,094: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:31:02,103: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:31:05,485: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:31:05,485: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:31:05,485: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:31:05,535: CryptoHandleLogger - INFO - salt bin created.
+2024-01-10 20:31:05,535: HandleLogger - INFO - [Anuhas] - cryptodata assigned.
+2024-01-10 20:31:05,540: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:31:05,544: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:32:54,730: QueryInfoLogger - INFO - 
+2024-01-10 20:32:54,732: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:32:54,732: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:32:54,732: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:32:54,734: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:32:54,736: HandleLogger - INFO - Progression stats updated.
+2024-01-10 20:33:44,394: QueryInfoLogger - INFO - Proceeding with [alternate] foreign database [mariadb].
+2024-01-10 20:33:44,396: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 20:33:44,396: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 20:33:44,396: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 20:33:44,398: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 20:33:44,399: HandleLogger - INFO - Progression stats updated.
+2024-01-10 21:40:14,195: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 21:40:14,197: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 21:40:14,197: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 21:40:14,197: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 21:40:14,198: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 21:40:14,207: HandleLogger - INFO - Progression stats updated.
+2024-01-10 21:40:17,601: QueryInfoLogger - INFO - Proceeding with [alternate] foreign database [mariadb].
+2024-01-10 21:40:17,603: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 21:40:17,604: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 21:40:17,604: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 21:40:17,606: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 21:40:17,608: HandleLogger - INFO - Progression stats updated.
+2024-01-10 21:40:32,805: QueryInfoLogger - WARNING - Can't connect to server on 'localhost' (10061)
+2024-01-10 21:40:32,806: QueryInfoLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 21:40:32,807: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 21:40:32,808: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 21:40:32,808: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 21:40:32,808: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 21:40:32,817: HandleLogger - INFO - Progression stats updated.
+2024-01-10 21:41:27,078: QueryInfoLogger - ERROR - Can't connect to server on 'localhost' (10061)
+2024-01-10 21:41:27,078: QueryInfoLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 21:41:27,080: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 21:41:27,080: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 21:41:27,081: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 21:41:27,081: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 21:41:27,089: HandleLogger - INFO - Progression stats updated.
+2024-01-10 22:19:09,560: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-10 22:19:09,561: ValidationLogger - INFO - [Anuhas] ---> Marks validated.
+2024-01-10 22:19:09,561: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_keys/'
+2024-01-10 22:19:09,562: ClassDataHandler - ERROR - [WinError 183] Cannot create a file when that file already exists: 'E:\\Data\\1.Python\\3.EXPERT\\1.OOP\\progression_tracker_OOP_V2/user_data/'
+2024-01-10 22:19:09,562: HandleLogger - INFO - User [Anuhas] authentication successful.
+2024-01-10 22:19:09,569: HandleLogger - INFO - Progression stats updated.

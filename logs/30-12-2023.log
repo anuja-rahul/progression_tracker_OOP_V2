@@ -1,0 +1,4 @@
+2023-12-30 23:54:25,468: WARNING - (1) is out of range.
+2023-12-30 23:54:30,457: WARNING - Sum of (120,0,20) must be 120.
+2023-12-30 23:54:42,338: ERROR - (Hello) should be an integer.
+2023-12-30 23:54:49,715: INFO - [Saman, 120, 0, 0] ---> Validated.

@@ -1,0 +1,110 @@
+2024-01-11 18:22:11,642: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:22:11,655: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]  created.
+2024-01-11 18:22:11,656: ClassDataHandler - INFO - [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]  created.
+2024-01-11 18:22:11,657: CryptoHandleLogger - INFO - salt bin created.
+2024-01-11 18:22:11,657: HandleLogger - INFO - [test_user] - cryptodata assigned.
+2024-01-11 18:22:11,661: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:22:11,661: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:22:32,911: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:22:32,916: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:22:32,916: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:22:32,917: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:22:32,917: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:22:32,917: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:22:32,921: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:22:41,624: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:22:41,626: ValidationLogger - WARNING - (10) is out of range.
+2024-01-11 18:22:41,627: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:22:41,627: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:22:41,627: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:22:41,627: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:22:53,154: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:22:53,156: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:22:53,156: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:22:53,157: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:22:53,157: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:22:53,157: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:22:53,163: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:23:05,177: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:23:05,178: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:23:05,179: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:23:05,179: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:23:05,180: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:23:05,180: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:23:05,189: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:23:16,577: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:23:16,578: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:23:16,579: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:23:16,579: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:23:16,579: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:23:16,580: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:23:16,588: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:23:27,295: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:23:27,296: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:23:27,297: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:23:27,297: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:23:27,297: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:23:27,298: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:23:27,306: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:23:40,440: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:23:40,441: ValidationLogger - WARNING - Sum of (60,60,60) must be 120.
+2024-01-11 18:23:40,442: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:23:40,442: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:23:40,442: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:23:40,442: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:24:30,010: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:24:30,012: ValidationLogger - WARNING - (10) is out of range.
+2024-01-11 18:24:30,013: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:24:30,013: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:24:30,013: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:24:30,014: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:24:48,895: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:24:48,897: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:24:48,897: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:24:48,897: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:24:48,898: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:24:48,898: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:24:48,907: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:24:54,958: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:24:54,959: ValidationLogger - INFO - [test_user] - Marks validated.
+2024-01-11 18:24:54,960: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:24:54,960: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:24:54,961: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:24:54,961: HandleLogger - WARNING - User [test_user] authentication unsuccessful.
+2024-01-11 18:25:31,838: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:25:31,840: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:25:31,840: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:25:31,840: HandleLogger - INFO - [test_user] existing user found.
+2024-01-11 18:25:31,840: HandleLogger - INFO - User [test_user] authentication successful.
+2024-01-11 18:25:31,841: HandleLogger - INFO - progress data string generated from database.
+2024-01-11 18:25:31,841: HandleLogger - INFO - Key requested to dump data.
+2024-01-11 18:25:31,845: CryptoHandleLogger(ENC) - INFO - Key generated
+2024-01-11 18:25:31,846: CryptoHandleLogger(ENC) - INFO - Data bin created.
+2024-01-11 18:25:31,846: HandleLogger - INFO - [test_user] - Data bin encrypted.
+2024-01-11 18:25:31,847: HandleLogger - INFO - Key requested to load data.
+2024-01-11 18:25:31,848: CryptoHandleLogger(DEC) - INFO - Key generated
+2024-01-11 18:25:31,853: CryptoHandleLogger(DEC) - INFO - Data retrieved from bin.
+2024-01-11 18:25:31,853: HandleLogger - INFO - [test_user] - Data bin decrypted.
+2024-01-11 18:28:29,175: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:28:29,176: ValidationLogger - INFO - [new_user] - Marks validated.
+2024-01-11 18:28:29,177: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:28:29,177: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:28:29,178: CryptoHandleLogger - INFO - salt bin created.
+2024-01-11 18:28:29,178: HandleLogger - INFO - [new_user] - cryptodata assigned.
+2024-01-11 18:28:29,184: HandleLogger - INFO - [new_user] existing user found.
+2024-01-11 18:28:29,185: HandleLogger - INFO - User [new_user] authentication successful.
+2024-01-11 18:28:29,192: HandleLogger - INFO - Progression stats updated.
+2024-01-11 18:28:47,526: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-11 18:28:47,527: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_keys/]
+2024-01-11 18:28:47,527: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2\dist/user_data/]
+2024-01-11 18:28:47,528: HandleLogger - INFO - [new_user] existing user found.
+2024-01-11 18:28:47,528: HandleLogger - INFO - User [new_user] authentication successful.
+2024-01-11 18:28:47,528: HandleLogger - INFO - progress data string generated from database.
+2024-01-11 18:28:47,529: HandleLogger - INFO - Key requested to dump data.
+2024-01-11 18:28:47,532: CryptoHandleLogger(ENC) - INFO - Key generated
+2024-01-11 18:28:47,533: CryptoHandleLogger(ENC) - INFO - Data bin created.
+2024-01-11 18:28:47,533: HandleLogger - INFO - [new_user] - Data bin encrypted.
+2024-01-11 18:28:47,534: HandleLogger - INFO - Key requested to load data.
+2024-01-11 18:28:47,535: CryptoHandleLogger(DEC) - INFO - Key generated
+2024-01-11 18:28:47,540: CryptoHandleLogger(DEC) - INFO - Data retrieved from bin.
+2024-01-11 18:28:47,540: HandleLogger - INFO - [new_user] - Data bin decrypted.

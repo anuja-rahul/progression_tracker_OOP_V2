@@ -1,0 +1,6 @@
+2024-01-05 23:58:58,957: MainLogger - CRITICAL - You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+        `iv` VARCHAR(200) NOT NULL) 
+        ENGINE = MyISAM' at line 3
+2024-01-05 23:59:18,660: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-05 23:59:18,664: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-05 23:59:18,672: MainLogger - CRITICAL - keys must be str, int, float, bool or None, not UUID

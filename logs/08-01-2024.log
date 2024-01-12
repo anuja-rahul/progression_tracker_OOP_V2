@@ -1,0 +1,342 @@
+2024-01-08 00:14:41,567: MainLogger - CRITICAL - Can't connect to server on 'localhost' (10061)
+2024-01-08 00:23:08,094: MainLogger - CRITICAL - near "=": syntax error
+2024-01-08 00:26:50,439: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-08 00:27:51,908: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-08 00:27:56,022: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Validated.
+2024-01-08 00:27:56,029: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 00:27:56,029: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 00:28:14,810: HandleLogger - INFO - User [Senith] authentication successful.
+2024-01-08 00:28:18,918: ValidationLogger - INFO - [Kamal, 0, 0, 120] ---> Validated.
+2024-01-08 00:28:18,921: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 00:28:18,921: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 00:32:16,731: ValidationLogger - INFO - [Kamal, 0, 0, 120] ---> Validated.
+2024-01-08 00:32:16,790: HandleLogger - WARNING - User [Kamal] authentication unsuccessful.
+2024-01-08 00:33:01,378: ValidationLogger - INFO - [Kamal, 0, 0, 120] ---> Validated.
+2024-01-08 00:33:01,380: HandleLogger - WARNING - User [Kamal] authentication unsuccessful.
+2024-01-08 00:33:34,247: ValidationLogger - INFO - [Kamal, 0, 0, 120] ---> Validated.
+2024-01-08 00:33:34,249: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:03:16,237: ValidationLogger - INFO - [Kamal, 0, 0, 120] ---> Validated.
+2024-01-08 01:03:16,240: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:03:36,355: ValidationLogger - WARNING - Sum of (0,80,80) must be 120.
+2024-01-08 01:03:36,357: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:03:52,241: ValidationLogger - INFO - [Kamal, 0, 80, 40] ---> Validated.
+2024-01-08 01:03:52,243: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:04:20,444: ValidationLogger - INFO - [Kamal, 0, 80, 40] ---> Marks validated.
+2024-01-08 01:04:20,446: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:04:33,412: ValidationLogger - INFO - [Kamal, 100, 20, 0] ---> Marks validated.
+2024-01-08 01:04:33,415: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:11:31,355: ValidationLogger - INFO - [Kamal, 100, 20, 0] ---> Marks validated.
+2024-01-08 01:11:31,358: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:11:31,359: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:11:31,365: HandleLogger - INFO - [Kamal] - Data bin encrypted successfully.
+2024-01-08 01:11:31,372: HandleLogger - INFO - [Kamal] - Data bin decrypted successfully.
+2024-01-08 01:11:50,265: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:11:50,267: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:11:50,269: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:11:50,274: HandleLogger - INFO - [Kamal] - Data bin encrypted successfully.
+2024-01-08 01:11:50,282: HandleLogger - INFO - [Kamal] - Data bin decrypted successfully.
+2024-01-08 01:16:46,468: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:16:46,470: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:16:46,471: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:16:46,476: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:16:46,478: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:16:46,478: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:16:46,479: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:16:46,479: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:16:46,486: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:16:46,486: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:16:46,486: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:17:00,048: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:17:00,050: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:17:00,052: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:17:00,056: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:17:00,057: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:17:00,058: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:17:00,059: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:17:00,059: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:17:00,065: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:17:00,065: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:17:00,066: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:18:29,793: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:18:29,796: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:18:29,797: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:18:29,802: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:29,802: HandleLogger - INFO - Key requested.
+2024-01-08 01:18:29,803: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:18:29,803: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:18:29,805: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:29,805: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:29,805: HandleLogger - INFO - Key requested.
+2024-01-08 01:18:29,811: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:18:29,811: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:18:29,811: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:18:57,887: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:18:57,889: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:18:57,891: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:18:57,896: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:57,896: HandleLogger - INFO - Key requested.
+2024-01-08 01:18:57,897: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:18:57,897: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:18:57,898: HandleLogger - INFO - Key requested.
+2024-01-08 01:18:57,899: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:57,899: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:18:57,905: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:18:57,905: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:18:57,906: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:19:42,569: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:19:42,571: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:19:42,573: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:19:42,575: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:19:42,578: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:19:42,579: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:19:42,579: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:19:42,580: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:19:42,581: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:19:42,581: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:19:42,587: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:19:42,587: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:19:42,588: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:23:16,124: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:23:16,127: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:23:16,128: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:23:16,130: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:23:16,134: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:23:16,135: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:23:16,135: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:23:16,135: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:23:16,137: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:23:16,137: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:23:16,142: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:23:16,142: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:23:16,143: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:26:28,108: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:26:28,111: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:26:28,112: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:26:28,114: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:26:28,117: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:26:28,119: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:26:28,119: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:26:28,120: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:26:28,121: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:26:28,121: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:26:28,127: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:26:28,127: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:26:28,127: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:29:31,562: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:29:31,564: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:29:31,566: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:29:31,568: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:29:31,571: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:29:31,572: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:29:31,572: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:29:31,573: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:29:31,574: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:29:31,574: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:29:31,580: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:29:31,580: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:29:31,580: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:30:56,583: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:30:56,585: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:30:56,586: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:30:56,588: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:30:56,591: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:30:56,592: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:30:56,592: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:30:56,593: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:30:56,594: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:30:56,594: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:30:56,595: HandleLogger - INFO - Test run.
+2024-01-08 01:30:56,601: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:30:56,601: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:30:56,601: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:31:59,076: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:31:59,079: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:31:59,081: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:31:59,083: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:31:59,083: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:31:59,086: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:31:59,087: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:31:59,088: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:31:59,089: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:31:59,089: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:31:59,089: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:31:59,091: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:31:59,091: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:31:59,091: HandleLogger - INFO - Test run.
+2024-01-08 01:31:59,098: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:31:59,098: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:31:59,098: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:33:03,184: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:33:03,187: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:33:03,188: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:33:03,190: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:33:03,190: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:33:03,193: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:33:03,194: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:33:03,195: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:33:03,195: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:33:03,195: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:33:03,195: CryptoHandleLogger - INFO - Test run from CryptoHandler
+2024-01-08 01:33:03,196: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:33:03,196: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:33:03,197: HandleLogger - INFO - Test run.
+2024-01-08 01:33:03,203: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:33:03,203: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:33:03,203: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:36:15,354: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:36:15,356: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:36:15,357: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:36:15,359: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:36:15,362: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:36:15,364: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:36:15,364: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:36:15,364: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:36:15,366: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:36:15,366: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:36:15,372: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:36:15,372: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:36:15,372: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:37:28,749: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:37:28,751: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:37:28,753: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:37:28,756: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:37:28,759: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:37:28,760: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:37:28,760: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:37:28,761: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:37:28,762: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:37:28,762: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:37:28,768: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:37:28,768: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:37:28,768: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:39:26,625: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:39:26,628: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:39:26,629: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:39:26,631: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:39:26,634: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:39:26,636: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:39:26,636: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:39:26,636: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:39:26,638: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:39:26,638: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:39:26,644: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:39:26,644: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:39:26,644: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 01:40:29,740: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 01:40:29,743: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 01:40:29,744: HandleLogger - INFO - Progression stats updated.
+2024-01-08 01:40:29,745: HandleLogger - INFO - string generated from database.
+2024-01-08 01:40:29,746: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 01:40:29,750: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:40:29,751: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 01:40:29,751: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 01:40:29,752: HandleLogger - INFO - Key requested to load data.
+2024-01-08 01:40:29,753: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:40:29,753: CryptoHandleLogger - INFO - Key generated
+2024-01-08 01:40:29,759: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:40:29,759: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 01:40:29,759: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 11:12:20,559: ValidationLogger - INFO - [Kamal, 120, 0, 0] ---> Marks validated.
+2024-01-08 11:12:20,563: HandleLogger - INFO - User [Kamal] authentication successful.
+2024-01-08 11:12:20,565: HandleLogger - INFO - Progression stats updated.
+2024-01-08 11:12:20,566: HandleLogger - INFO - string generated from database.
+2024-01-08 11:12:20,567: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 11:12:20,570: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:20,571: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 11:12:20,571: HandleLogger - INFO - [Kamal] - Data bin encrypted.
+2024-01-08 11:12:20,572: HandleLogger - INFO - Key requested to load data.
+2024-01-08 11:12:20,573: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:20,573: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:20,579: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:20,579: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:20,579: HandleLogger - INFO - [Kamal] - Data bin decrypted.
+2024-01-08 11:12:44,619: ValidationLogger - INFO - [Saman, 120, 0, 0] ---> Marks validated.
+2024-01-08 11:12:44,622: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 11:12:44,622: HandleLogger - INFO - [Saman] - cryptodata assigned.
+2024-01-08 11:12:44,623: HandleLogger - INFO - User [Saman] authentication successful.
+2024-01-08 11:12:44,625: HandleLogger - INFO - Progression stats updated.
+2024-01-08 11:12:44,626: HandleLogger - INFO - string generated from database.
+2024-01-08 11:12:44,631: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 11:12:44,635: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:44,635: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:44,636: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 11:12:44,636: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 11:12:44,636: HandleLogger - INFO - [Saman] - Data bin encrypted.
+2024-01-08 11:12:44,637: HandleLogger - INFO - Key requested to load data.
+2024-01-08 11:12:44,638: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:44,638: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:44,638: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:44,644: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:44,644: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:44,644: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:44,644: HandleLogger - INFO - [Saman] - Data bin decrypted.
+2024-01-08 11:12:59,154: ValidationLogger - INFO - [Saman, 0, 0, 120] ---> Marks validated.
+2024-01-08 11:12:59,156: HandleLogger - INFO - User [Saman] authentication successful.
+2024-01-08 11:12:59,157: HandleLogger - INFO - Progression stats updated.
+2024-01-08 11:12:59,158: HandleLogger - INFO - string generated from database.
+2024-01-08 11:12:59,159: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 11:12:59,162: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:59,163: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 11:12:59,163: HandleLogger - INFO - [Saman] - Data bin encrypted.
+2024-01-08 11:12:59,164: HandleLogger - INFO - Key requested to load data.
+2024-01-08 11:12:59,165: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:59,165: CryptoHandleLogger - INFO - Key generated
+2024-01-08 11:12:59,171: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:59,171: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 11:12:59,171: HandleLogger - INFO - [Saman] - Data bin decrypted.
+2024-01-08 12:22:41,230: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:22:41,239: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:22:41,239: HandleLogger - INFO - [Tester] - cryptodata assigned.
+2024-01-08 12:22:41,245: HandleLogger - INFO - User [Tester] authentication successful.
+2024-01-08 12:24:12,721: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:24:12,723: ValidationLogger - INFO - [Tester, 120, 0, 0] ---> Marks validated.
+2024-01-08 12:24:12,724: HandleLogger - INFO - User [Tester] authentication successful.
+2024-01-08 12:24:12,734: HandleLogger - INFO - Progression stats updated.
+2024-01-08 12:24:23,068: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:24:23,070: ValidationLogger - INFO - [Tester, 100, 20, 0] ---> Marks validated.
+2024-01-08 12:24:23,071: HandleLogger - INFO - User [Tester] authentication successful.
+2024-01-08 12:24:23,081: HandleLogger - INFO - Progression stats updated.
+2024-01-08 12:24:36,658: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:24:36,660: HandleLogger - INFO - User [Tester] authentication successful.
+2024-01-08 12:24:36,660: HandleLogger - INFO - string generated from database.
+2024-01-08 12:24:36,661: HandleLogger - INFO - Key requested to dump data.
+2024-01-08 12:24:36,664: CryptoHandleLogger - INFO - Key generated
+2024-01-08 12:24:36,665: CryptoHandleLogger - INFO - Data bin created.
+2024-01-08 12:24:36,666: HandleLogger - INFO - [Tester] - Data bin encrypted.
+2024-01-08 12:24:36,666: HandleLogger - INFO - Key requested to load data.
+2024-01-08 12:24:36,667: CryptoHandleLogger - INFO - Key generated
+2024-01-08 12:24:36,667: CryptoHandleLogger - INFO - Key generated
+2024-01-08 12:24:36,673: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 12:24:36,673: CryptoHandleLogger - INFO - Data retrieved from bin.
+2024-01-08 12:24:36,674: HandleLogger - INFO - [Tester] - Data bin decrypted.
+2024-01-08 12:31:27,811: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:31:27,813: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:31:27,814: HandleLogger - INFO - [Wimal] - cryptodata assigned.
+2024-01-08 12:31:27,821: HandleLogger - INFO - User [Wimal] authentication successful.
+2024-01-08 12:31:31,191: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:31:31,194: HandleLogger - INFO - User [Wimal] authentication successful.
+2024-01-08 12:31:57,240: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:31:57,242: HandleLogger - INFO - User [Wimal] authentication successful.
+2024-01-08 12:32:27,517: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:32:27,520: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:32:27,520: HandleLogger - INFO - [saman] - cryptodata assigned.
+2024-01-08 12:32:27,526: HandleLogger - INFO - User [saman] authentication successful.
+2024-01-08 12:34:11,975: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:34:11,975: HandleLogger - INFO - [saman] - cryptodata assigned.
+2024-01-08 12:34:11,977: HandleLogger - WARNING - User [saman] authentication unsuccessful.
+2024-01-08 12:34:32,766: HandleLogger - WARNING - User [saman] authentication unsuccessful.
+2024-01-08 12:34:50,418: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:34:50,418: HandleLogger - INFO - [Wimal] - cryptodata assigned.
+2024-01-08 12:34:50,420: HandleLogger - INFO - User [Wimal] authentication successful.
+2024-01-08 12:35:16,903: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:35:16,906: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:35:16,906: HandleLogger - INFO - [Amara] - cryptodata assigned.
+2024-01-08 12:35:16,912: HandleLogger - INFO - User [Amara] authentication successful.
+2024-01-08 12:35:25,838: HandleLogger - WARNING - User [Amara] authentication unsuccessful.
+2024-01-08 12:35:46,718: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:35:46,718: HandleLogger - INFO - [Kasun] - cryptodata assigned.
+2024-01-08 12:35:46,720: HandleLogger - INFO - User [Kasun] authentication successful.
+2024-01-08 12:35:56,917: DataLogger - INFO - Proceeding with local database [sqlite3].
+2024-01-08 12:35:56,920: CryptoHandleLogger - INFO - salt bin created.
+2024-01-08 12:35:56,920: HandleLogger - INFO - [Kasun] - cryptodata assigned.
+2024-01-08 12:35:56,924: HandleLogger - INFO - User [Kasun] authentication successful.

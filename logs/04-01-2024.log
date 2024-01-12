@@ -1,0 +1,25 @@
+2024-01-04 00:01:02,995: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:01:02,997: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:01:10,316: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:01:10,319: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:01:19,397: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:01:19,399: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:01:26,077: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:01:26,080: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:01:33,211: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:01:33,214: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:02:36,543: HandleLogger - INFO - [Random, 0, 20, 100] ---> Validated.
+2024-01-04 00:02:36,544: HandleLogger - INFO - User [Random] authentication successful.
+2024-01-04 00:03:29,311: HandleLogger - INFO - [Sunil, 0, 20, 100] ---> Validated.
+2024-01-04 00:03:29,313: HandleLogger - WARNING - User [Sunil] authentication unsuccessful.
+2024-01-04 00:03:36,206: HandleLogger - INFO - [Sunil, 0, 20, 100] ---> Validated.
+2024-01-04 00:03:36,208: HandleLogger - WARNING - User [Sunil] authentication unsuccessful.
+2024-01-04 00:04:16,041: HandleLogger - INFO - [Sunil, 0, 20, 100] ---> Validated.
+2024-01-04 00:04:16,043: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-04 00:04:21,125: HandleLogger - INFO - [Sunil, 0, 20, 100] ---> Validated.
+2024-01-04 00:04:21,127: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-04 00:04:35,412: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-04 00:04:35,415: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-04 10:03:59,556: HandleLogger - INFO - [Sunil, 0, 80, 40] ---> Validated.
+2024-01-04 10:03:59,558: HandleLogger - INFO - User [Sunil] authentication successful.
+2024-01-04 10:41:35,747: MainLogger - CRITICAL - Can't connect to server on 'localhost' (10061)
