@@ -36,7 +36,7 @@ def add_user(name, password, database) -> None:
         user = DataHandler(name=name, password=password, database=databases[database])
         print(user.get_user_data())
         if user.authentication:
-            print("\nUser added to the database !\n")
+            print("\nSuccess !\n")
         else:
             print("\nCannot add user \nusername already exists !\n")
 
@@ -91,6 +91,7 @@ def get_progress(name, password, database) -> None:
     :param database: local or foreign [l/f]
     :return: string of user progression data
     """
+    # TODO: Non existing user entries keep generating bin files
     try:
         user = DataHandler(name=name, password=password, database=databases[database])
         progress_data = user.get_output()
