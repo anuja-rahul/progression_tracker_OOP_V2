@@ -10,6 +10,8 @@ from datalogger import DataLogger
 from validator import DataValidator
 from cryptohandler import CryptoHandler
 
+# TODO: Data entry method and get user stats unauthorized bin file generated.
+
 
 class DataHandler:
     """
