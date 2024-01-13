@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab359cdb-0f0e-47ed-bfed-48ba5f3648be" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/logs/13-01-2024.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_data/2eb6e6c8-3367-45d5-bef7-054c1c47fd01.bin" beforeDir="false" afterPath="$PROJECT_DIR$/user_data/2eb6e6c8-3367-45d5-bef7-054c1c47fd01.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +76,13 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.handler.executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Data/1.Python/3.EXPERT/1.OOP/progression_tracker_OOP_V2",
+    "last_opened_file_path": "E:/Data/1.Python/3.EXPERT/GUI/customtkinter_01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +90,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -343,7 +348,9 @@
       <workItem from="1705074709162" duration="1705000" />
       <workItem from="1705076436361" duration="459000" />
       <workItem from="1705076937660" duration="187000" />
-      <workItem from="1705077304943" duration="1079000" />
+      <workItem from="1705077304943" duration="1101000" />
+      <workItem from="1705078799049" duration="368000" />
+      <workItem from="1705136509698" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <option name="closed" value="true" />
@@ -377,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705078219328</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1705078405856</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705078405856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

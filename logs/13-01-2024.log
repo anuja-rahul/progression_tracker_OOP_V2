@@ -1,0 +1,5 @@
+2024-01-13 14:41:59,987: QueryLogger - INFO - Proceeding with [default] local database [sqlite3].
+2024-01-13 14:41:59,992: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_keys/]
+2024-01-13 14:41:59,993: ClassDataHandler - INFO - Existing path found: [E:\Data\1.Python\3.EXPERT\1.OOP\progression_tracker_OOP_V2/user_data/]
+2024-01-13 14:41:59,993: HandleLogger - INFO - [test_user] existing user found.
+2024-01-13 14:41:59,993: HandleLogger - WARNING - User [test_user] authentication unsuccessful.
