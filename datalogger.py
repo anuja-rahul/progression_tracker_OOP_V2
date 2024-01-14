@@ -38,6 +38,7 @@ class DataLogger:
 
     @classmethod
     def init_env(cls):
+        """Initiates the required directories for the log files"""
         try:
             os.mkdir(DataLogger.log_path)
         except FileExistsError:

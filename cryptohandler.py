@@ -3,13 +3,13 @@
 backend data encryption and decryption handler
 progression_tracker_OOP_V2/cryptohandler.py
 """
-from datalogger import DataLogger
-
 from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Random import get_random_bytes
 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
+
+from datalogger import DataLogger
 
 
 class CryptoHandler:
@@ -29,10 +29,12 @@ class CryptoHandler:
 
     @property
     def password(self) -> str:
+        """makes the password read only"""
         return self.__password
 
     @property
     def availability(self) -> bool:
+        """makes availability option read only"""
         return self.__availability
 
     def assign_salt(self, salt=None) -> None:

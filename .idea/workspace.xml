@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab359cdb-0f0e-47ed-bfed-48ba5f3648be" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/logs/13-01-2024.log" afterDir="false" />
+    <list default="true" id="ab359cdb-0f0e-47ed-bfed-48ba5f3648be" name="Changes" comment="Updated cryptography options">
+      <change afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_data/2eb6e6c8-3367-45d5-bef7-054c1c47fd01.bin" beforeDir="false" afterPath="$PROJECT_DIR$/user_data/2eb6e6c8-3367-45d5-bef7-054c1c47fd01.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptohandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptohandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datalogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/datalogger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/13-01-2024.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/13-01-2024.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progression_db.db" beforeDir="false" afterPath="$PROJECT_DIR$/progression_db.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="e8da3841-b1a1-445b-bee4-59e361eb4922" />
+        <option name="accountId" value="bf80767c-c145-4bc9-a0c5-8abef49ea7af" />
         <option name="url" value="https://github.com/popsibro07/progression_tracker_OOP_V2.git" />
       </UrlAndAccount>
     </option>
@@ -61,7 +66,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -76,9 +81,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.handler.executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -350,7 +354,10 @@
       <workItem from="1705076937660" duration="187000" />
       <workItem from="1705077304943" duration="1101000" />
       <workItem from="1705078799049" duration="368000" />
-      <workItem from="1705136509698" duration="635000" />
+      <workItem from="1705136509698" duration="1556000" />
+      <workItem from="1705149623441" duration="1750000" />
+      <workItem from="1705199169553" duration="392000" />
+      <workItem from="1705244655567" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <option name="closed" value="true" />
@@ -392,16 +399,36 @@
       <option name="project" value="LOCAL" />
       <updated>1705078405856</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated cryptography options">
+      <option name="closed" value="true" />
+      <created>1705137189236</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705137189236</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Updated cryptography options" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated cryptography options" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/progression_tracker_OOP_V2$handler.coverage" NAME="handler Coverage Results" MODIFIED="1704000862132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

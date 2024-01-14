@@ -5,10 +5,11 @@ progression_tracker_OOP_V2/handler.py
 """
 import os
 import uuid
+from decorators import timer
 from queries import QueryData
-from datalogger import DataLogger
 from validator import DataValidator
 from cryptohandler import CryptoHandler
+from datalogger import DataLogger
 
 # TODO: Data entry method and get user stats unauthorized bin file generated.
 
@@ -65,6 +66,7 @@ class DataHandler:
         return self.__authentication
 
     @classmethod
+    @timer
     def init_env(cls) -> None:
         """creates necessary directories for user data files"""
         path_list = [DataHandler.salt_path, DataHandler.data_path]

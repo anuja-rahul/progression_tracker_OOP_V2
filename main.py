@@ -21,7 +21,8 @@ def main_method():
 
 
 @click.command()
-@click.option("--name", "-n", prompt="Enter your name", help="Name of the user", type=str, required=True)
+@click.option("--name", "-n", prompt="Enter your name", help="Name of the user",
+              type=str, required=True)
 @click.option("--password", "-pw", prompt="Enter your password", help="user password",
               type=str, required=False, default=None)
 @click.argument("database", type=click.Choice(choices), default="l", required=False)
@@ -68,9 +69,9 @@ def add_marks(name: str, pass_marks: int, defer_marks: int, fail_marks: int, pas
         entry = user.data_entry()
         if len(entry) == 1:
             if not entry[0]:
-                print(f"\nRecheck your inputs !\n")
+                print("\nRecheck your inputs !\n")
             else:
-                print(f"\nIncorrect password !\n")
+                print("\nIncorrect password !\n")
         else:
             print(f"\n{entry}\nEntry successful !\n")
 
