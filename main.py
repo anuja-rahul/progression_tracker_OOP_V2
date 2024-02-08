@@ -7,6 +7,7 @@ from handler import DataHandler
 from python_datalogger import DataLogger
 import click
 
+
 data_logger = DataLogger(name="MainLogger", propagate=True)
 databases = {
     "l": "local",
