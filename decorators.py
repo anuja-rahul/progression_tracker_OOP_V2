@@ -1,6 +1,6 @@
 import time
 from typing import Callable
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 
 
 def logger(function: Callable):
@@ -19,11 +19,12 @@ def logger(function: Callable):
 
 
 def timer(function: Callable):
+    method_name = function.__name__
+
     def wrapper(*args, **kwargs):
         before = time.time()
         result = function(*args, **kwargs)
         after = time.time()
-        method_name = function.__name__
         print(f"\n{method_name} - took {str(after - before)[:9]} seconds to execute.\n")
         return result
     return wrapper

@@ -9,7 +9,7 @@ from Crypto.Random import get_random_bytes
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 
 
 class CryptoHandler:

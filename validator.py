@@ -3,7 +3,7 @@
 backend data validation
 progression_tracker_OOP_V2/validator.py
 """
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 
 
 class DataValidator:

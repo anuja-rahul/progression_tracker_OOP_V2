@@ -4,7 +4,7 @@ user data input and output
 progression_tracker_OOP_V2/main.py
 """
 from handler import DataHandler
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 import click
 
 data_logger = DataLogger(name="MainLogger", propagate=True)

@@ -9,7 +9,7 @@ from decorators import timer
 from queries import QueryData
 from validator import DataValidator
 from cryptohandler import CryptoHandler
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 
 # TODO: Data entry method and get user stats unauthorized bin file generated.
 

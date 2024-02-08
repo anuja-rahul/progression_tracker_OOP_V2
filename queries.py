@@ -5,7 +5,7 @@ progression_tracker_OOP_V2/queries.py
 """
 import mariadb
 import sqlite3
-from datalogger import DataLogger
+from python_datalogger import DataLogger
 
 env_logger = DataLogger(name="QueryInfoLogger", propagate=False)
 
